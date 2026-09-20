@@ -311,7 +311,7 @@ Mitosis flipbook showing the stages of cell division in an interactive digital p
 ![73f28e7f-06a3-49d0-9adf-138b2701f43d.png](https://files.seeusercontent.com/2026/07/29/Bty4/73f28e7f-06a3-49d0-9adf-138b2701.png)
 FlippingBooks shows how to create a flipbook in three simple steps.
 
-Use descriptive alt text that explains what each screenshot shows rather than generic names such as `image1.png`.
+
 
 ## Getting Started
 
