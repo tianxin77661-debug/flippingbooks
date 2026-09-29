@@ -78,7 +78,7 @@ Flipbooks can also present educational concepts. For example, a sequence of diag
 
 For the detailed workflow, see:
 
-- [How to Convert a PDF to a Flipbook](https://flippingbooks.org/)
+- [How to Convert a PDF to a Flipbook](https://github.com/tianxin77661-debug/flippingbooks/blob/main/docs/pdf-to-flipbook.md)
 
 ## FAQ
 
@@ -96,8 +96,7 @@ Yes. An online flipbook can be published to a web-based reader and shared throug
 
 ## Explore More
 
-- [How to Convert a PDF to a Flipbook](https://flippingbooks.org/)
-- [How Digital Flipbooks Are Used for Magazines](https://flippingbooks.org/zh/share/40d1f315-c673-4549-ae41-8e7a37484b5a)
+- [How to Convert a PDF to a Flipbook](https://github.com/tianxin77661-debug/flippingbooks/blob/main/docs/pdf-to-flipbook.md)
+- [How Digital Flipbooks Are Used for Magazines](https://github.com/tianxin77661-debug/flippingbooks/blob/main/docs/digital-magazine.md)
 - [FlipFlow — Online Flipbook Maker](https://flippingbooks.org/)
-
 > Feature availability can vary by publishing platform and plan.
