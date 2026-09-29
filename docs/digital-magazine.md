@@ -159,7 +159,7 @@ Feature availability varies by platform.
 
 If you already have a PDF magazine, brochure, catalog, portfolio, or educational publication, you can start with that existing document.
 
-[Create an interactive flipbook with FlippingBooks](https://flippingbooks.org/)
+[Create an interactive flipbook with FlipFlow](https://flippingbooks.org/)
 
 ## Related Documentation
 
