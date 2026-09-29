@@ -116,6 +116,6 @@ An HTML5 flipbook is a web-based flipbook experience that uses modern browser te
 
 ## Explore More
 
-- [What Is a Flipbook?](https://flippingbooks.org/)
-- [How Digital Flipbooks Are Used for Magazines](https://flippingbooks.org/zh/share/b0c7e5d0-b90e-48d0-8b98-b6429c1aabfe)
+- [How to Convert a PDF to a Flipbook](https://github.com/tianxin77661-debug/flippingbooks/blob/main/docs/pdf-to-flipbook.md)
+- [How Digital Flipbooks Are Used for Magazines](https://github.com/tianxin77661-debug/flippingbooks/blob/main/docs/digital-magazine.md)
 - [FlipFlow — Online Flipbook Maker](https://flippingbooks.org/)
