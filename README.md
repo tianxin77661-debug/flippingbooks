@@ -1,38 +1,22 @@
 # FlipFlow --- Digital Flipbook Creator
 
-```{=html}
-<p align="center">
-```
-`<a href="https://flippingbooks.org/">`{=html}
-`<img src="https://flippingbooks.org/favicon.ico" alt="FlipFlow Logo" width="80">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<h1 align="center">
-```
-Create Interactive Digital Flipbooks Online
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-Transform your PDFs into beautiful, interactive flipbooks with realistic
-page-turning effects.
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://flippingbooks.org/">`{=html}Try FlipFlow
-Online`</a>`{=html}
-```{=html}
-</p>
-```
+<WritingBlock id="58214" variant="document"># FlipFlow
 
+<p align="center">
+  <a href="https://flippingbooks.org/">
+    <img src="https://flippingbooks.org/favicon.ico" alt="FlipFlow Logo" width="80">
+  </a>
+</p>
+
+<h1 align="center">Create Interactive Digital Flipbooks Online</h1>
+
+<p align="center">
+  Convert your images, PDFs, PowerPoint presentations, and Word documents into beautiful, interactive flipbooks with realistic page-turning effects.
+</p>
+
+<p align="center">
+  <a href="https://flippingbooks.org/">Try FlipFlow Online</a>
+</p></WritingBlock>
 ------------------------------------------------------------------------
 
 ## 📖 FlipFlow
