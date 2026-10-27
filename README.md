@@ -1,6 +1,5 @@
 # FlipFlow --- Digital Flipbook Creator
 
-<WritingBlock id="58214" variant="document"># FlipFlow
 
 <p align="center">
   <a href="https://flippingbooks.org/">
