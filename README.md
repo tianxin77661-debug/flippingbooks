@@ -93,7 +93,7 @@ Perfect for:
 
 4.  Share your interactive flipbook online
 
-[**Start creating**]（https://flippingbooks.org/）
+[Start Creating a Flipbook with FlipFlow](https://flippingbooks.org/)
 
 ------------------------------------------------------------------------
 
