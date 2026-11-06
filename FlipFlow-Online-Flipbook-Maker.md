@@ -312,7 +312,6 @@ Mitosis flipbook showing the stages of cell division in an interactive digital p
 FlipFlow shows how to create a flipbook in three simple steps.
 
 
-
 ## Getting Started
 
 The fastest way to explore FlipFlow is to start with a document you already have.
