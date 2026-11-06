@@ -1,6 +1,5 @@
 # FlipFlow --- Digital Flipbook Creator
 
-
 <p align="center">
   <a href="https://flippingbooks.org/">
     <img src="https://flippingbooks.org/favicon.ico" alt="FlipFlow Logo" width="80">
@@ -16,7 +15,7 @@
 <p align="center">
   <a href="https://flippingbooks.org/">Try FlipFlow Online</a>
 </p></WritingBlock>
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 📖 FlipFlow
 
